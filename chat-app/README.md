@@ -28,6 +28,8 @@ npm run dev
 
 (Alternativ ohne Auto-Reload: `npm start`)
 
+Windows ohne Terminal: `start.bat` im Ordner `chat-app` doppelklicken (installiert bei Bedarf die Abhaengigkeiten, legt `.env` an und startet den Server).
+
 Danach im Browser oeffnen: http://localhost:3000
 
 ## Struktur
